@@ -1,5 +1,5 @@
 ---
-title: C. Fox <br> UX & IA
+title: Christian Fox UX & IA
 subtitle: Freelance UX-Konzeption und Informationsarchitektur. Trainer / Coach für <a href="https://xd-i.com/">XDi</a>. Auch zu finden auf <a href="https://www.xing.com/profile/Christian_Fox9">Xing</a> und <a href="https://www.linkedin.com/in/christian-fox-23b69b34/">LinkedIn</a>.
 layout: layouts/base.njk
 ---
