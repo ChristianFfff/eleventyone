@@ -4,7 +4,7 @@ subtitle: Freelance UX-Konzeption und Informationsarchitektur. Trainer / Coach f
 layout: layouts/base.njk
 ---
 
-
+<!--
 ## This site is a starting point
 
 From this point we should already have:
@@ -84,3 +84,4 @@ Netlify's Redirects API can provide friendlier URLs as proxies to these URLs.
 
 - [/api/hello](/api/hello)
 - [/api/fetch-joke](/api/fetch-joke)
+-->
