@@ -1,6 +1,6 @@
 ---
-title: Test Test Test
-subtitle: A project scaffold for getting building with Eleventy quickly.<br /> Made by <a href="https://twitter.com/philhawksworth">Phil</a> for <a href="https://twitter.com/philhawksworth">Phil</a>, but perhaps you might also find it useful.
+title: Christian Fox UX & IA
+subtitle: Freelance UX-Konzeption und Informationsarchitektur. Köln.<br /> Auch zu finden auf <a href="https://www.xing.com/profile/Christian_Fox9">Xing</a> und <a href="https://www.linkedin.com/in/christian-fox-23b69b34/">LinkedIn</a>, but perhaps you might also find it useful.
 layout: layouts/base.njk
 ---
 
