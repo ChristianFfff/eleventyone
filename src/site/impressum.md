@@ -9,7 +9,7 @@ Maybachstraße 159 <br>
 50670 Köln <br>
 Vertreten durch: <br>
 Christian Fox <br>
-Telefon: 0151-64312743 <br>
+Telefon: +49(0)151-6431-2743 <br>
 E-Mail: mail@christian-fox.de <br>
 
 Umsatzsteuer-ID:
