@@ -16,7 +16,7 @@ E-Mail: mail@christian-fox.de <br>
 Umsatzsteuer-ID:
 Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE312811485
 
-# Haftungsausschluss:
+## Haftungsausschluss:
 
 ## Haftung für Inhalte
 
