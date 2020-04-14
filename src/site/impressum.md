@@ -1,10 +1,8 @@
 ---
 title: Impressum
 layout: layouts/base.njk
-subtitle: Cloneeee and deploy your own EleventyOne starter template.
+subtitle: Angaben gemäß § 5 TMG
 ---
-
-Angaben gemäß § 5 TMG
 
 Christian Fox
 Maybachstraße 159
