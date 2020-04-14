@@ -4,13 +4,13 @@ layout: layouts/base.njk
 subtitle: Angaben gemäß § 5 TMG
 ---
 
-Christian Fox
-Maybachstraße 159
-50670 Köln
-Vertreten durch:
-Christian Fox
-Telefon: 0151-64312743%E2%80%AC
-E-Mail: mail@christian-fox.de
+Christian Fox <br>
+Maybachstraße 159 <br>
+50670 Köln <br>
+Vertreten durch: <br>
+Christian Fox <br>
+Telefon: 0151-64312743 <br>
+E-Mail: mail@christian-fox.de <br>
 
 Umsatzsteuer-ID:
 Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE312811485
