@@ -3,7 +3,7 @@ title: Christian Fox UX & IA
 subtitle: Freelance UX-Konzeption und Informationsarchitektur in Köln. <br> Trainer / Coach für <a href="https://xd-i.com/">XDi</a>. Auch zu finden bei <a href="https://www.xing.com/profile/Christian_Fox9">Xing</a> und <a href="https://www.linkedin.com/in/christian-fox-23b69b34/">LinkedIn</a>.
 layout: layouts/base.njk
 ---
-<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/Eyedoor?ref_src=twsrc%5Etfw">Tweets by Eyedoor</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-theme="light" href="https://twitter.com/Eyedoor?ref_src=twsrc%5Etfw">Tweets by Christian Fox</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!--
 ## This site is a starting point
 
