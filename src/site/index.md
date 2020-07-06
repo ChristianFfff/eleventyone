@@ -8,7 +8,7 @@ layout: layouts/base.njk
       data-tweet-limit="1">
 Tweets by @eyedoor</a>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<!--
 <a class="twitter-timeline" data-theme="light" href="https://twitter.com/Eyedoor?ref_src=twsrc%5Etfw">Tweets by Christian Fox</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!--
 ## This site is a starting point
