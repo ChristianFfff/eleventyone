@@ -1,7 +1,7 @@
 ---
-title: UX-Konzeption und Informationsarchitektur
+title: XX - UX - XX
 layout: layouts/base.njk
-subtitle:
+subtitle: Meine Arbeit als UX-Konzepter und Informationsarchitekt
 ---
 
 ## Empathische Kreation
