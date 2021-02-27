@@ -4,30 +4,29 @@ layout: layouts/base.njk
 subtitle: Weitere Informationen folgen.
 ---
 
-## Hosting
+## Empathische Kreation
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
+Nutzerzentriertes Arbeiten bedeutet, die Bedürfnisse der Nutzer in allen Projektphasen in den Mittelpunkt zu stellen. Dabei spielen Kenntnisse über Richtlinien, Normen, Nutzungskontexte und Usability-Heuristiken eine wichtige Rolle. Doch erst im Einklang mit bewährten UX-Methoden wird der wichtigste Erfolgsfaktor in den Kreationsprozess integriert: Empathie.
 
-<div class="nakedLink">
+## UX-Werkzeugkasten
 
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
+Herzstück des UX-Prozesses stellen effiziente Methoden und deren korrekte Anwendung dar. Bei der Vielzahl an Möglichkeiten ist es wichtig, sich auf praxiserprobte und wissenschaftlich fundierte Lösungsansätze zu konzentrieren. Der User Centered Design Ansatz bietet mit seiner Auswahl an skalierbaren Methoden eine gute Grundlage.
 
-</div>
+Ich arbeite mit:
 
-## One-click deploy
+- Customer Journey Maps
+- Card-Sortings
+- Interviews & Befragungen
+- Personas
+- Prototyping & Wireframes
+- Usability-Analysen
+- Usability-Testings (Vorort oder Remote)
+- User-Szenarien
 
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
+## Agiles Arbeiten
 
-<div class="nakedLink">
+Es muss nicht immer Scrum sein. Mit dem agilen Manifest im Hinterkopf, den richtigen Tools und gesundem Menschenverstand lassen sich Projekte jeder Größenordnung stemmen. Die Prinzipien des Design Thinking sowie die Integration bewährter Prozesse in Confluence und Jira sind für mich Grundlage für eine angenehme und erfolgreiche Projektarbeit.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
+## UX-Reifegrad
 
-</div>
-
-## 👆 Wait, what happens when I click that button?
-
-Good question. Here's what it will do...
-
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
+Alle wollen, wenige können. User Experience sollte nicht als Hoheitsgebiet oder Steckenpferd einzelner Projektbeteiligter verstanden werden. Damit sich Unternehmen bei ihrer digitalen Transformation nicht selbst im Weg stehen, ist eine schrittweise, achtsame Entwicklung eigener UX-Prozesse notwendig. Diese Reife zu entwickeln kann anstrengen, aber auch sehr viel Spaß machen.
