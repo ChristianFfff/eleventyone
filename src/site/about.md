@@ -1,7 +1,7 @@
 ---
 title: About
 layout: layouts/base.njk
-subtitle: Weitere Informationen folgen.
+subtitle: Meine Arbeit als UX-Konzepter
 ---
 
 ## Empathische Kreation
