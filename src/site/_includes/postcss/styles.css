@@ -161,13 +161,12 @@ code {
 	background-color:transparent;
 	border-radius:10px;
 	border:1px solid #ffffff;
-	display:inline-block;
 	cursor:pointer;
   color: mix($text-color, $page-color, 90%);
   font-family: sans-serif;
   font-weight: 300;
   font-size: 16px;
-  padding:16px 31px;
+  padding:16px 54px;
 	text-decoration:none;
 }
 .myButton:hover {
