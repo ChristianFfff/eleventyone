@@ -221,3 +221,36 @@ footer {
     border-bottom: solid 1px $text-color;
   }
 }
+
+/*Flex items*/
+.teaser-section {
+  display: flex;
+  flex-wrap: wrap;
+}
+.teaser {
+	display: flex;
+  padding: 0.5em;
+	width: 100%;
+
+}
+@media all and (min-width: 40em) {
+  .teaser {
+    width: 50%;
+  }
+}
+@media all and (min-width: 60em) {
+  .teaser {
+    width: 33.33%;
+  }
+}
+.teaser--content {
+	background-color: #fff;
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+	width: 100%;
+}
+.teaser--content p {
+	flex: 1 0 auto;
+}
