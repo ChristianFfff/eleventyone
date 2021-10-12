@@ -170,9 +170,11 @@ code {
 	text-decoration: none;
 }
 .myButton:hover {
+	background-color:transparent;
+  text-decoration: none;
 }
 .myButton:active {
-	position:relative;
+	background-color:transparent;
   text-decoration: none;
 }
 
