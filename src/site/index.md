@@ -3,25 +3,6 @@ title: Christian Fox UX & IA
 subtitle: Freelance UX-Konzeption und Informationsarchitektur in Köln. <br> Trainer / Coach für <a href="https://xd-i.com/">XDi</a>. Auch zu finden bei <a href="https://www.xing.com/profile/Christian_Fox9">Xing</a> und <a href="https://www.linkedin.com/in/christian-fox-23b69b34/">LinkedIn</a>.
 layout: layouts/base.njk
 ---
-<section class="teaser-section">
-  <article class="teaser">
-    <div class="teaser--content">
-      <h2 class="teaser--headline">Das ist UX</h2>
-      <p>Weil ich oft gefragt werde und der Meinung bin, dass der Begriff „User Experience“ noch immer zu oft falsch verstanden wird. So definiere ich meine Arbeit als UX-Konzepter und Informationsarchitekt.</p>
-      <a href="">Mehr erfahren</a>
-    </div>
-  </article>
-
-	 <article class="teaser">
-    <div class="teaser--content">
-      <h2 class="teaser--headline">Maßgeschneiderte Usability-Tests
-</h2>
-      <p>Usability-Testing wurde lange Zeit als teure und zeitintensive Methode abgetan. Mit einem eingespielten Team aus Experten biete ich schnelle, maßgeschneiderte Lösungen an. Vorort und Remote.</p>
-      <a href="">Mehr erfahren</a>
-    </div>
-  </article>
-
-
 <a href="https://www.christian-fox.de/about/">Mehr erfahren ></a>
 <!--
 ## This site is a starting point
