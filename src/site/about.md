@@ -31,6 +31,8 @@ Es muss nicht immer Scrum sein. Mit dem agilen Manifest im Hinterkopf, den richt
 Alle wollen, wenige können. User Experience sollte nicht als Hoheitsgebiet oder Steckenpferd einzelner Projektbeteiligter verstanden werden. Damit sich Unternehmen bei ihrer digitalen Transformation nicht selbst im Weg stehen, ist eine schrittweise, achtsame Entwicklung eigener UX-Prozesse notwendig. Diese Reife zu entwickeln kann anstrengen, aber auch sehr viel Spaß machen.
 <br>
 <br>
-Fragen? Ich freue mich über Kontakte jeder Art. <br>
-
+<br>
+Fragen? Ich freue mich über Kontakte jeder Art.
+<br>
+<br>
 <a href="mailto:mail@christian-fox.de" class="myButton">E-Mail schreiben</a>
