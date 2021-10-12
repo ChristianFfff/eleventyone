@@ -1,7 +1,7 @@
 ---
 title: Packen wir's an!
 layout: layouts/base.njk
-subtitle: Meine Arbeit als UX-Konzepter und Informationsarchitekt
+subtitle: So definiere ich meine Arbeit als UX-Konzepter und Informationsarchitekt
 ---
 ## Empathische Kreation
 
