@@ -29,3 +29,25 @@ Es muss nicht immer Scrum sein. Mit dem agilen Manifest im Hinterkopf, den richt
 ## UX-Reifegrad
 
 Alle wollen, wenige können. User Experience sollte nicht als Hoheitsgebiet oder Steckenpferd einzelner Projektbeteiligter verstanden werden. Damit sich Unternehmen bei ihrer digitalen Transformation nicht selbst im Weg stehen, ist eine schrittweise, achtsame Entwicklung eigener UX-Prozesse notwendig. Diese Reife zu entwickeln kann anstrengen, aber auch sehr viel Spaß machen.
+
+Fragen? Ich freue mich über Kontakte jeder Art.
+<a href="#" class="myButton">E-Mail schreiben</a>
+
+.myButton {
+	background-color:transparent;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:sans-serif;
+	font-size:13px;
+	padding:10px 24px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:transparent;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
