@@ -159,7 +159,7 @@ code {
 
 .myButton {
 	background-color:transparent;
-	border-radius:10px;
+	border-radius:0px;
 	border:1px solid #ffffff;
 	cursor:pointer;
   color: mix($text-color, $page-color, 90%);
