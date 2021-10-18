@@ -157,7 +157,7 @@ code {
   white-space: nowrap;
 }
 
-.myButton {
+a.myButton {
 	background-color:transparent;
 	border-radius:0px;
 	border:1px solid #ffffff;
@@ -169,11 +169,11 @@ code {
   padding:13px 31px;
 	text-decoration: none;
 }
-.myButton:hover {
+a.myButton:hover {
 	background-color:transparent;
   text-decoration: none;
 }
-.myButton:active {
+a.myButton:active {
 	background-color:transparent;
   text-decoration: none;
 }
