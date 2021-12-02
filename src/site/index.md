@@ -1,9 +1,10 @@
 ---
 title: Christian Fox UX & IA
-subtitle: Freelance UX-Konzeption und Informationsarchitektur in Köln. <br> Trainer / Coach für <a href="https://xd-i.com/">XDi</a>. Auch zu finden bei <a href="https://www.xing.com/profile/Christian_Fox9">Xing</a> und <a href="https://www.linkedin.com/in/christian-fox-23b69b34/">LinkedIn</a>.
-<a href="https://www.christian-fox.de/about/">Mehr erfahren ></a>
+subtitle: Freelance UX-Konzeption und Informationsarchitektur in Köln. <br> Trainer / Coach für <a href="https://xd-i.com/">XDi</a>. Auch zu finden bei <a href="https://www.xing.com/profile/Christian_Fox9">Xing</a> und <a href="https://www.linkedin.com/in/christian-fox-23b69b34/">LinkedIn</a>. <a href="https://www.christian-fox.de/about/">Mehr erfahren ></a>
 layout: layouts/base.njk
 ---
+## Intro
+
 Der digitale Wandel stellt Unternehmen vor große Herausforderungen und zwingt zum Umdenken. Dabei ist nicht nur die Unternehmenskommunikation betroffen, es müssen ganze Geschäftsmodelle, Wertschöpfungsketten und Prozesse erneuert werden.
 Klingt kompliziert, ist es auch :)
 
