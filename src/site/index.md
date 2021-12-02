@@ -12,6 +12,7 @@ Mit mehr als zehn Jahren Praxis im Bereich User Experience besitze ich die notwe
 
 Meine Arbeit führt Unternehmen Stück für Stück zu einer klaren, digitalen Positionierung. Ich bin überzeugt: Nur wenn UX zu einem Teil der Unternehmensstrategie wird, gelingt der digitale Wandel. Dabei kann ich helfen.
 <br>
+<br>
 <a href="https://www.christian-fox.de/about/">Mehr erfahren></a>
 
 <!--
