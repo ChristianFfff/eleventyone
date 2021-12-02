@@ -1,16 +1,16 @@
 ---
 title: Christian Fox UX & IA
-subtitle: Freelance UX-Konzeption und Informationsarchitektur in Köln. <br> Trainer / Coach für <a href="https://xd-i.com/">XDi</a>. Auch zu finden bei <a href="https://www.xing.com/profile/Christian_Fox9">Xing</a> und <a href="https://www.linkedin.com/in/christian-fox-23b69b34/">LinkedIn</a>. <a href="https://www.christian-fox.de/about/">Mehr erfahren ></a>
+subtitle: Freelance UX-Konzeption und Informationsarchitektur in Köln. <br> Trainer / Coach für <a href="https://xd-i.com/">XDi</a>. Auch zu finden bei <a href="https://www.xing.com/profile/Christian_Fox9">Xing</a> und <a href="https://www.linkedin.com/in/christian-fox-23b69b34/">LinkedIn</a>.
 layout: layouts/base.njk
 ---
-## Intro
+## Mein Profil
 
 Der digitale Wandel stellt Unternehmen vor große Herausforderungen und zwingt zum Umdenken. Dabei ist nicht nur die Unternehmenskommunikation betroffen, es müssen ganze Geschäftsmodelle, Wertschöpfungsketten und Prozesse erneuert werden.
 Klingt kompliziert, ist es auch :)
 
 Mit mehr als zehn Jahren Praxis im Bereich User Experience besitze ich die notwendige Erfahrung, Unternehmen bei ihrer digitalen Transformation zu unterstützen. Ich berate strategisch, packe aber auch gerne operativ mit an.
 
-Meine Arbeit führt Unternehmen Stück für Stück zu einer klaren, digitalen Positionierung. Ich bin überzeugt: Nur wenn UX zu einem Teil der Unternehmensstrategie wird, gelingt der digitale Wandel. Dabei kann ich helfen.
+Meine Arbeit führt Unternehmen Stück für Stück zu einer klaren, digitalen Positionierung. Ich bin überzeugt: Nur wenn UX zu einem Teil der Unternehmensstrategie wird, gelingt der digitale Wandel. Dabei kann ich helfen. <a href="https://www.christian-fox.de/about/">Mehr erfahren></a>
 <br>
 <br>
 <a href="mailto:mail@christian-fox.de" class="myButton">E-Mail schreiben</a>
