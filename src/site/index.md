@@ -10,12 +10,14 @@ Klingt kompliziert, ist es auch :)
 
 Mit mehr als zehn Jahren Praxis im Bereich User Experience besitze ich die notwendige Erfahrung, Unternehmen bei ihrer digitalen Transformation zu unterstützen. Ich berate strategisch, packe aber auch gerne operativ mit an.
 
+<br>
+<img src="Christian_Fox.png" alt="Christian Fox UX & IA">
+
 Meine Arbeit führt Unternehmen Stück für Stück zu einer klaren, digitalen Positionierung. Ich bin überzeugt: Nur wenn UX zu einem Teil der Unternehmensstrategie wird, gelingt der digitale Wandel. Dabei möchte ich helfen.
 <br>
 <br>
 <a href="https://www.christian-fox.de/about/">Mehr erfahren></a>
-<br>
-<img src="Christian_Fox.png" alt="Christian Fox UX & IA">
+
 <!--
 ## This site is a starting point
 
