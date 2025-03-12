@@ -15,7 +15,7 @@ Meine Arbeit führt Unternehmen Stück für Stück zu einer klaren, digitalen Po
 <br>
 <a href="https://www.christian-fox.de/about/">Mehr erfahren></a>
 <br>
-<img src="/Users/fox/Documents/GitHub/eleventyone/src/site/images/Christian_Fox.png">
+<img src="Users/fox/Documents/GitHub/eleventyone/src/site/images/Christian_Fox.png" alt="Christian Fox UX & IA">
 <!--
 ## This site is a starting point
 
