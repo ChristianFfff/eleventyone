@@ -14,7 +14,8 @@ Meine Arbeit führt Unternehmen Stück für Stück zu einer klaren, digitalen Po
 <br>
 <br>
 <a href="https://www.christian-fox.de/about/">Mehr erfahren></a>
-
+<br>
+<img src="images/Christian_Fox9.jpg">
 <!--
 ## This site is a starting point
 
