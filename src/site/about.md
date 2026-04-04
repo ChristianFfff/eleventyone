@@ -1,9 +1,9 @@
 ---
-title: Packen wir's an!
+title: Empathisches Kreation
 layout: layouts/base.njk
 subtitle: So definiere ich meine Arbeit als UX-Konzepter und Informationsarchitekt
 ---
-## Empathische Kreation
+## Meine Arbeit
 
 Nutzerzentriertes Arbeiten bedeutet, die Bedürfnisse der Nutzer in allen Projektphasen in den Mittelpunkt zu stellen. Dabei spielen Kenntnisse über Richtlinien, Normen, Nutzungskontexte und Usability-Heuristiken eine wichtige Rolle. Doch erst im Einklang mit bewährten UX-Methoden wird der wichtigste Erfolgsfaktor in den Kreationsprozess integriert: Empathie.
 
