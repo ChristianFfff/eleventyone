@@ -1,5 +1,5 @@
 ---
-title: Empathisches Kreation
+title: Empathische Kreation
 layout: layouts/base.njk
 subtitle: So definiere ich meine Arbeit als UX-Konzepter und Informationsarchitekt
 ---
