@@ -1,9 +1,9 @@
 ---
-title: Für wen ich arbeite
+title: Starke Kunden, spannende Projekte
 layout: layouts/base.njk
-subtitle: So definiere ich meine Arbeit als UX-Konzepter und Informationsarchitekt
+subtitle: Für wen ich arbeite
 ---
-## Meine Arbeit
+## Meine Kunden
 
 Manche meiner Kunden kommen mit einem klaren Auftrag. Andere haben ein Gefühl, dass etwas nicht stimmt, aber noch keinen Namen dafür. Beides ist ein guter Anfang.
 
