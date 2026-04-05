@@ -1,5 +1,5 @@
 ---
-title: Starke Kunden, spannende Projekte
+title: Die gemeinsame Mission
 layout: layouts/base.njk
 subtitle: Für wen ich arbeite
 ---
