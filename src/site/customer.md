@@ -1,7 +1,7 @@
 ---
 title: Starke Partner
 layout: layouts/base.njk
-subtitle: Mit wem ich arbeite und wie Zusammenarbeit entsteht
+subtitle: Mit wem ich arbeite und wie gute Zusammenarbeit entsteht
 ---
 ## Meine Kunden
 
