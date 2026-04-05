@@ -1,7 +1,7 @@
 ---
-title: Die gemeinsame Basis
+title: Starke Partner
 layout: layouts/base.njk
-subtitle: Für wen meine Arbeit relevant ist
+subtitle: Mit wem ich arbeite und wie Zusammenarbeit entsteht
 ---
 ## Meine Kunden
 
