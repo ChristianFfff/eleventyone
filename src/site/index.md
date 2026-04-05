@@ -5,7 +5,7 @@ layout: layouts/base.njk
 ---
 ## Mein Profil
 
-Der digitale Wandel stellt Unternehmen vor große Herausforderungen und zwingt zum Umdenken. Dabei ist nicht nur die Unternehmenskommunikation betroffen, es müssen ganze Geschäftsmodelle, Wertschöpfungsketten und Prozesse erneuert werden.
+Die digitalen Anforderungen an Unternehmen verändern sich und zwingen zum Umdenken. Dabei ist nicht nur die Unternehmenskommunikation betroffen, es müssen ganze Geschäftsmodelle, Wertschöpfungsketten und Prozesse erneuert werden.
 Klingt kompliziert, ist es auch :)
 
 Mit mehr als zehn Jahren Praxis im Bereich User Experience besitze ich die notwendige Erfahrung, Unternehmen bei ihrer digitalen Transformation zu unterstützen. Ich berate strategisch, packe aber auch gerne operativ mit an.
