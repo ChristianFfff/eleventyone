@@ -1,7 +1,7 @@
 ---
-title: Die gemeinsame Mission
+title: Die gemeinsame Basis
 layout: layouts/base.njk
-subtitle: Für wen ich arbeite
+subtitle: Für wen meine Arbeit relevant ist
 ---
 ## Meine Kunden
 
