@@ -1,5 +1,5 @@
 ---
-title: Starke Partner
+title: Auftraggeber
 layout: layouts/base.njk
 subtitle: Mit wem ich arbeite und wie gute Zusammenarbeit entsteht
 ---
