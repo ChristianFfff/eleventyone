@@ -109,11 +109,11 @@ a:focus {
 
 .nav {
   padding-top: 3em;
-
+  display: flex;
   li {
-    display: inline;
+    display: block;
+    flex: 1;
   }
-
   a:link,
   a:visited {
     display: inline-block;
@@ -124,19 +124,18 @@ a:focus {
     padding-top: 0.8em;
     padding-bottom: 2em;
     margin-left: 0;
-    margin-right: 0.7em;
-    width: 9em;
+    margin-right: 0.5em;
+    width: auto;
     text-align: left;
     color: mix($text-color, $accent-color, 80%);
     text-decoration: none;
   }
   a:hover,
   a:focus {
-      color: $text-color;
-      border-top-color: $text-color;
-      border-bottom-style: none;
+    color: $text-color;
+    border-top-color: $text-color;
+    border-bottom-style: none;
   }
-
   small {
     display: block;
     font-size: 0.7em;
