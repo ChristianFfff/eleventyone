@@ -20,7 +20,7 @@ Klugo, Messe Frankfurt, Miltenyi Biotec, Nomos Verlag, OEG
 Artyspark, best it, brandung, Cocomore, Digitas LBI, edotz, Pooliestudios, Publicis Sapient, SUNZINET
 
 #### Projekte für, z. B.
-1. FC Köln, Aktion Mensch, Bastei Lübbe, Deutsche Telekom, Douglas, HDI Versicherung, MediClin, Roland Rechtsschutz, SCHWALBE, Schalke 04, toom Baumarkt, Verband der Privaten Krankenversicherung e.V.
+1 FC Köln, Aktion Mensch, Bastei Lübbe, Deutsche Telekom, Douglas, HDI Versicherung, MediClin, Roland Rechtsschutz, SCHWALBE, Schalke 04, toom Baumarkt, Verband der Privaten Krankenversicherung e.V.
 
 Die vollständige Referenzliste stelle ich auf Anfrage bereit.
 
