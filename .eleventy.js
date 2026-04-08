@@ -38,7 +38,13 @@ module.exports = function(config) {
   config.addPassthroughCopy("./src/site/*.png");
   config.addPassthroughCopy("./src/site/*.webmanifest");
   config.addPassthroughCopy("./src/site/*.xml");
-
+  config.addPassthroughCopy("./src/site/favicon-32x32.png");
+  config.addPassthroughCopy("./src/site/favicon-16x16.png");
+  config.addPassthroughCopy("./src/site/apple-touch-icon.png");
+  config.addPassthroughCopy("./src/site/android-chrome-192x192.png");
+  config.addPassthroughCopy("./src/site/android-chrome-256x256.png");
+  config.addPassthroughCopy("./src/site/site.webmanifest");
+  config.addPassthroughCopy("./src/site/browserconfig.xml");
 
   // make the seed target act like prod
   env = (env=="seed") ? "prod" : env;
