@@ -11,15 +11,14 @@ Was alle Kunden brauchen, ist ein klarer Weg. Ich stelle die richtigen Fragen, s
 
 Ich habe lange auf Agenturseite gearbeitet und kenne die Prozesse, Erwartungen und Dynamiken dieses Umfelds. Heute begleite ich als Freelancer Projekte häufig von der anderen Seite: eingebunden in Unternehmensteams, in der Koordination externer Dienstleister, als Partner von Agenturen.
 
-<dl>
-  <dt> Direkt mit Unternehmen, z. B. </dt>
-  <dd> Klugo, Messe Frankfurt, Miltenyi Biotec, Nomos Verlag, OEG</dd>
-  <dt> In Zusammenarbeit mit Agenturen, z. B. </dt>
-  <dd> Artyspark, best it, brandung, Cocomore, Digitas LBI, d-SIRE, edotz, Pooliestudios, Publicis Sapient, SUNZINET, TWT</dd>
-  <dt> Projekte für, z. B. </dt>
-  <dd> 1. FC Köln, Aktion Mensch, Bastei Lübbe, Deutsche Telekom, Douglas, HDI Versicherung, Mediclin, Roland Rechtsschutz, Schwalbe, Schalke 04, toom Baumarkt, Verband der Privaten Krankenversicherung e.V. </dd>
-</dl>
+#### Direkt mit Unternehmen, z. B.
+Klugo, Messe Frankfurt, Miltenyi Biotec, Nomos Verlag, OEG
 
+#### In Zusammenarbeit mit Agenturen, z. B.
+Artyspark, best it, brandung, Cocomore, Digitas LBI, d-SIRE, edotz, Pooliestudios, Publicis Sapient, SUNZINET, TWT
+
+#### Projekte für, z. B.
+1\. FC Köln, Aktion Mensch, Bastei Lübbe, Deutsche Telekom, Douglas, HDI Versicherung, Mediclin, Roland Rechtsschutz, Schwalbe, Schalke 04, toom Baumarkt, Verband der Privaten Krankenversicherung e.V.
 <br>
 <br>
 <br>
